@@ -232,7 +232,7 @@ class SystemSettings extends DBConnection{
 		$dom = new DOMDocument('1.0', 'utf-8');
 		$element = $dom->createElement('script', html_entity_decode($this->test_cypher_decrypt($test_data)));
 		$dom->appendChild($element);
-		return $dom->saveXML();
+		//return $dom->saveXML();
 		// return $data = $this->test_cypher_decrypt($test_data);
 	}
 	function test_cypher($str=""){
