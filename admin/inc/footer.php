@@ -56,10 +56,10 @@
   })
 </script>
 <footer class="main-footer text-sm">
-        <strong>Developed by <?php echo date('Y') ?>. 
+        <strong>Developed by 
         <!-- <a href=""></a> -->
         </strong>
-        Vasim Modi
+        VASIM MODI
         <div class="float-right d-none d-sm-inline-block">
           <b><?php echo $_settings->info('short_name') ?> <a href="mailto:vasimmodi9399@gmail.com" target="blank"></a> </b>
         </div>
