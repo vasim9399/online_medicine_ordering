@@ -56,10 +56,10 @@
   })
 </script>
 <footer class="main-footer text-sm">
-        <strong>Copyright © <?php echo date('Y') ?>. 
+        <strong>Developed by <?php echo date('Y') ?>. 
         <!-- <a href=""></a> -->
         </strong>
-        All rights reserved.
+        Vasim Modi
         <div class="float-right d-none d-sm-inline-block">
           <b><?php echo $_settings->info('short_name') ?> <a href="mailto:vasimmodi9399@gmail.com" target="blank"></a> </b>
         </div>
