@@ -27,7 +27,11 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify"><b>Integration with Pharmacy Networks:</b> Collaborate with local pharmacies to expand the range of available medicines and ensure quicker delivery.
+
+<b>Prescription Upload Feature:</b> Enable users to upload prescriptions for verification, ensuring a secure and compliant ordering process.
+
+<b>User Feedback and Ratings:</b> Implement a feedback system to gather user opinions and ratings, enhancing the overall quality of service.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service:</b><br><p align="justify"><br> The website is hosted on Azure App Service, ensuring a scalable and reliable platform for users to access the online medicine ordering system.</p>
 
