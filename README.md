@@ -1,11 +1,11 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://medicineordering.azurewebsites.net/">Online Medicine Ordering</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://medicineordering.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
-<b>Industry :</b> Lifestyle and Technology<br>
+<b>Github Repository URL :</b> https://github.com/vasim9399/online_medicine_ordering <br>
+<b>Industry :</b> Health And Care <br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
@@ -60,7 +60,7 @@ Azure AI Service <br>
 ![sql server](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/f1e1667e-24d5-4371-8bd2-e95fe57cfeb5)
 
 <h3>Azure AI Bot Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
+<b>Description :</b><p align="justify">The project integrates Azure Bot Service to deploy and manage the chatbot efficiently. The chatbot acts as a virtual assistant, helping users navigate the system, understand medication details, and address common concerns.</p>
 
 ![bot](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/1f4f3bed-cbd3-489c-a1a8-a9cc6adaafae)
 
@@ -82,4 +82,4 @@ The "Future Ready Talent Internship - Online Medicine Ordering System" is a comp
 <p align="justify">
 <b>By addressing common user queries through a chatbot powered by Azure AI Language Service and Azure Bot Service, the system provides a seamless and secure experience. Hosting on Azure App Service and utilizing Azure SQL Database ensures scalability, reliability, and efficient management of user data. The integration of Application Insights allows continuous monitoring and optimization of the system's performance, contributing to a future-ready solution in the healthcare domain.</b>
 </p> <br>
-</h2><b><a href="https://medicineordering.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://medicineordering.azurewebsites.net/">Online Medicine Ordering</b></a>
