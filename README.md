@@ -27,11 +27,11 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify"><b>Integration with Pharmacy Networks:</b> Collaborate with local pharmacies to expand the range of available medicines and ensure quicker delivery.
+<p align="justify"><b>1.Integration with Pharmacy Networks:</b> Collaborate with local pharmacies to expand the range of available medicines and ensure quicker delivery.
 
-<b>Prescription Upload Feature:</b> Enable users to upload prescriptions for verification, ensuring a secure and compliant ordering process.
+<b>2.Prescription Upload Feature:</b> Enable users to upload prescriptions for verification, ensuring a secure and compliant ordering process.
 
-<b>User Feedback and Ratings:</b> Implement a feedback system to gather user opinions and ratings, enhancing the overall quality of service.</p>
+<b>3.User Feedback and Ratings:</b> Implement a feedback system to gather user opinions and ratings, enhancing the overall quality of service.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service:</b><br><p align="justify"><br> The website is hosted on Azure App Service, ensuring a scalable and reliable platform for users to access the online medicine ordering system.</p>
 
