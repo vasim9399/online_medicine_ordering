@@ -39,7 +39,8 @@ Azure AI Service <br>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
 <b>Azure AI:</b><p align="justify"><b>Leveraging Azure's comprehensive AI capabilities, the project benefits from advanced machine learning and natural language processing functionalities, enhancing the overall intelligence of the system.<br>
-<b>Azure Security Services:</b>Implementing Azure security services ensures that user data, including personal and medical information, is handled securely, maintaining compliance with data protection regulations.</p>
+</b></p>
+<b>Azure Security Services:</b><br><p align="justify">Implementing Azure security services ensures that user data, including personal and medical information, is handled securely, maintaining compliance with data protection regulations.</p>
 
 
 <h2>Screenshots</h2>
