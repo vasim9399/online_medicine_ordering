@@ -56,16 +56,25 @@ Azure AI Service <br>
 
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3>
+
+![sql server](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/f1e1667e-24d5-4371-8bd2-e95fe57cfeb5)
+
+<h3>Azure AI Bot Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+
+![bot](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/1f4f3bed-cbd3-489c-a1a8-a9cc6adaafae)
+
+
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+
+![demoofchatbot](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/5bf79686-2ac9-4214-98f6-0f14f3a7525e)
+
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+
+![visualizer](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/b64bb7a7-2fd7-4f64-b344-d495b567c06e)
+
 
 <h2>Final Project Statement</h2>
 <p align="justify">
@@ -73,4 +82,4 @@ The "Future Ready Talent Internship - Online Medicine Ordering System" is a comp
 <p align="justify">
 <b>By addressing common user queries through a chatbot powered by Azure AI Language Service and Azure Bot Service, the system provides a seamless and secure experience. Hosting on Azure App Service and utilizing Azure SQL Database ensures scalability, reliability, and efficient management of user data. The integration of Application Insights allows continuous monitoring and optimization of the system's performance, contributing to a future-ready solution in the healthcare domain.</b>
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://medicineordering.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
