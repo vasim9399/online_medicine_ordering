@@ -15,9 +15,9 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">The healthcare industry is evolving rapidly, and there is a growing need for innovative solutions to streamline processes and enhance user experiences. One significant challenge is the efficient and convenient access to medicines. The traditional methods of purchasing medicines may be time-consuming and less user-friendly. In addition, users often have common questions and concerns related to medicines that could be addressed more effectively with a reliable and intelligent system.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">The "Future Ready Talent Internship - Online Medicine Ordering System" addresses the challenges in the healthcare sector by providing a user-friendly platform for ordering medicines online. The system allows users to register, log in, and seamlessly order their required medications. To enhance user interaction and address common queries, a chatbot has been integrated to provide instant responses to Frequently Asked Questions (FAQs)</p><br>
 <b>Key Features :</b>
 <ul>
     <li>Seamless Language Translation</li>
@@ -29,19 +29,18 @@ Azure AI Service <br>
 <b>Future Enhancements :</b><br>
 <p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure App Service:</b><br><p align="justify"><br> The website is hosted on Azure App Service, ensuring a scalable and reliable platform for users to access the online medicine ordering system.</p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL Dtatabase :</b><br><p align="justify">The backend of the system relies on Azure SQL Database to store and manage user information, order details, and other relevant data securely.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI Language Service:</b><br><br><p align="justify">This service is utilized to enhance the chatbot's capabilities, enabling it to understand natural language queries and provide intelligent responses to user inquiries related to medicines and the ordering process.</p>
+<b><b>Azure Bot Service:</b><br><br><p align="justify">The project integrates Azure Bot Service to deploy and manage the chatbot efficiently. The chatbot acts as a virtual assistant, helping users navigate the system, understand medication details, and address common concerns.</p></b><br><br><p align="justify">This service is utilized to enhance the chatbot's capabilities, enabling it to understand natural language queries and provide intelligent responses to user inquiries related to medicines and the ordering process.</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
-<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
-<b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
-<b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
-<b>Diagnostics Precision :</b> Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+<b>Azure AI:</b><p align="justify"><b>Leveraging Azure's comprehensive AI capabilities, the project benefits from advanced machine learning and natural language processing functionalities, enhancing the overall intelligence of the system.<br>
+<b>Azure Security Services:</b>Implementing Azure security services ensures that user data, including personal and medical information, is handled securely, maintaining compliance with data protection regulations.</p>
+
 
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
@@ -62,8 +61,8 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+The "Future Ready Talent Internship - Online Medicine Ordering System" is a comprehensive solution that leverages Azure's core services and AI capabilities to create a user-friendly and intelligent platform for ordering medicines online. </p>
 <p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>By addressing common user queries through a chatbot powered by Azure AI Language Service and Azure Bot Service, the system provides a seamless and secure experience. Hosting on Azure App Service and utilizing Azure SQL Database ensures scalability, reliability, and efficient management of user data. The integration of Application Insights allows continuous monitoring and optimization of the system's performance, contributing to a future-ready solution in the healthcare domain.</b>
 </p> <br>
 </h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
