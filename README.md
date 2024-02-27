@@ -51,6 +51,7 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
+
 ![app service ss](https://github.com/prathmeshk12/sport/assets/155420565/83024dfa-2524-49b5-a13c-9480d0796d0f)
 
 <h3>Azure Databse for MySQL</h3>
