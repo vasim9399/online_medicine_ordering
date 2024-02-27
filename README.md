@@ -12,7 +12,7 @@ Core Azure Services : <br>
 1. Azure App Service <br>
 2. Azure SQL Database <br> <br>
 Azure AI Service <br>
-1.Azure AI Language Service
+1.Azure AI Language Service <br>
 2.Azure Bot Service    
 </h3>
 <h2>Problem Statement</h2>
