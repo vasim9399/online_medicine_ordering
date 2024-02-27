@@ -12,7 +12,8 @@ Core Azure Services : <br>
 1. Azure App Service <br>
 2. Azure SQL Database <br> <br>
 Azure AI Service <br>
-1. Azure AI Translator Service
+1.Azure AI Language Service
+2.Azure Bot Service    
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">The healthcare industry is evolving rapidly, and there is a growing need for innovative solutions to streamline processes and enhance user experiences. One significant challenge is the efficient and convenient access to medicines. The traditional methods of purchasing medicines may be time-consuming and less user-friendly. In addition, users often have common questions and concerns related to medicines that could be addressed more effectively with a reliable and intelligent system.</p>
