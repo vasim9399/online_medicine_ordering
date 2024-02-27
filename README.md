@@ -68,7 +68,7 @@ Azure AI Service <br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
 
-![demoofchatbot](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/5bf79686-2ac9-4214-98f6-0f14f3a7525e)
+![chatlive](https://github.com/vasim9399/online_medicine_ordering/assets/155420565/ad531997-5397-49ba-9860-36b14e5b252d)
 
 
 <h3>Resource Visualizer</h3>
