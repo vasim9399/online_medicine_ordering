@@ -25,7 +25,7 @@
 }
 
 // Gradient background
-@mixin gradient($color: #33F9FF, $start: #eee, $stop: $white) {
+@mixin gradient($color: #33F9FF, $start: #011111, $stop: $white) {
   background-color: $color;
   background-image: gradient(linear, left bottom, left top, color-stop(0, $start), color-stop(1, $stop));
 }
