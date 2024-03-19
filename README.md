@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://medicineordering.azurewebsites.net/ <br>
-<b>Demo Video URL :  </b>[ https://drive.google.com/file/d/1xWAvVx8Slbui5Y48npsisBFnytxhdmcL/view?usp=sharing ](https://drive.google.com/file/d/1xWAvVx8Slbui5Y48npsisBFnytxhdmcL/view?usp=sharing)<br>
+<b>Demo Video URL :  </b>https://drive.google.com/file/d/1xWAvVx8Slbui5Y48npsisBFnytxhdmcL/view?usp=sharing<br>
 <b>Github Repository URL :</b> https://github.com/vasim9399/online_medicine_ordering <br>
 <b>Industry :</b> Health And Care <br>
 <h2>Azure Services Used</h2>
